@@ -1,3 +1,4 @@
 # datascience
 webscraping
-birşeyler yaptık
+birşeyler yaptık 
+yazı
